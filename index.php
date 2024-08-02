@@ -1,1 +1,1 @@
-//Silence is golder
+//Silence is golden
